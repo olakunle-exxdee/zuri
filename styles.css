@@ -352,7 +352,7 @@ div.footer h6 {
     padding: 1rem 2rem;
   }
   div.hero-background-pos {
-    display: inline-block;
+    display: block;
   }
 }
 
